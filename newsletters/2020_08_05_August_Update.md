@@ -3,6 +3,10 @@
 
 Note I will be on holidays from Aug 19 to Aug 26 Inclusive.   Will miss the next session, Reschedule?
 
+*Some links require a Partner Membership*
+
+***
+
 1. [Partner Update - August 2020](#partner-update---august-2020)
    1. [Questions for Partners](#questions-for-partners)
       1. [VSCode Update](#vscode-update)
