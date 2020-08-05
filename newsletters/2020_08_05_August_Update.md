@@ -123,6 +123,8 @@ Recommended action.
 The following link will take you to the documentation.  
 [Gateway IP addresses](https://docs.microsoft.com/en-us/azure/azure-sql/database/connectivity-architecture#gateway-ip-addresses) - The table below lists the IP Addresses of Gateways by region. To connect to SQL Database or Azure Synapse, you need to allow network traffic to and from all Gateways for the region.
 
+[Azure SQL Database traffic migration to newer Gateways](https://docs.microsoft.com/en-us/azure/azure-sql/database/gateway-migration?tabs=in-progress-ip) - As Azure infrastructure improves, Microsoft will periodically refresh hardware to ensure we provide the best possible customer experience. In the coming months, we plan to add gateways built on newer hardware generations, migrate traffic to them, and eventually decommission gateways built on older hardware in some regions.
+
 
 ***
 
