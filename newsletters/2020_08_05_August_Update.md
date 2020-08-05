@@ -7,7 +7,7 @@ Note I will be on holidays from Aug 19 to Aug 26 Inclusive.   Will miss the next
    1. [Questions for Partners](#questions-for-partners)
       1. [VSCode Update](#vscode-update)
    2. [Online Training and Events](#online-training-and-events)
-      1. [Virtual Series Update](#virtual-series-update)
+      1. [Virtual Series Update (Partner Membership Required)](#virtual-series-update-partner-membership-required)
       2. [MICROSOFT LEARN](#microsoft-learn)
       3. [Register for free Azure Data and AI exam prep sessions and certification vouchers](#register-for-free-azure-data-and-ai-exam-prep-sessions-and-certification-vouchers)
       4. [Microsoft Ignite](#microsoft-ignite)
@@ -38,7 +38,7 @@ The latest release of the Python Extension for Visual Studio Code is now availab
 ***
 ## Online Training and Events 
 
-### Virtual Series Update
+### Virtual Series Update (Partner Membership Required)
 
 As part of the FY21 Virtual Training Series (VTS) Series, designed to provide advanced training and support technical skills development, we are pleased to share the registration invitation for the upcoming VTSs.
  
