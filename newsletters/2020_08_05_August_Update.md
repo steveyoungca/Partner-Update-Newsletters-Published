@@ -110,7 +110,7 @@ Check out the new capabilities added to the Azure Machine Learning Visual Studio
 
 Update your network configuration to allow communication with new Azure SQL Database gateways by 1 September 2020
 
-To improve performance and reduce login latency, we're adding new SQL Database gateways in these regions on 1 September 2020: 
+To improve performance and reduce login latency, we're adding new SQL Database gateways in these regions on 1 September 2020:   
 
 	• South Central US 
 	• West US 2 
